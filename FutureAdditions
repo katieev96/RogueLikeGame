@@ -1,0 +1,21 @@
+Future Additions:
+  ~Different Levels
+    Easy: Monsters move around randomly in areas
+    Medium: Monsters attack only in a specific area
+    Hard: Current attack algorithm
+    Extreme: Current algorithm but less weapons
+    
+  ~Add New Weapons
+    Ax, hammer, pickaxe
+    inventory/one at a time
+    
+  ~Modify Walls
+    Make weirdly shaped walls so that every dungeon isnt a square 
+    
+  ~Modify Monsters
+    Different monsters have different hit strength 
+    
+  ~Track wins
+  
+  ~Add Help Text
+    
